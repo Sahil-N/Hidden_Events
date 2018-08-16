@@ -1,6 +1,15 @@
 # Hidden_Events
 
-Hidden Events is the best way to Host and Attend DIY shows in Chicago. 
+Hidden_Events is the best way to Host and Attend DIY shows in Chicago; Be in the know without forfeting your privacy! 
+
+
+
+
+
+
+
+
+
 
 Currently In Development, Ask me about the progress!
 
